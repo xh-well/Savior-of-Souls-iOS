@@ -1,0 +1,124 @@
+{"frames": {
+
+"friend_insideInfo.png":
+{
+	"frame": {"x":2,"y":2,"w":704,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":704,"h":116},
+	"sourceSize": {"w":704,"h":120}
+},
+"friend_title.png":
+{
+	"frame": {"x":708,"y":2,"w":898,"h":376},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":11,"w":898,"h":376},
+	"sourceSize": {"w":950,"h":400}
+},
+"shop_insideBtn.png":
+{
+	"frame": {"x":1608,"y":2,"w":179,"h":113},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":179,"h":113},
+	"sourceSize": {"w":187,"h":121}
+},
+"shop_insideInfo.png":
+{
+	"frame": {"x":2,"y":380,"w":515,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":515,"h":117},
+	"sourceSize": {"w":517,"h":121}
+},
+"shop_insideItem.png":
+{
+	"frame": {"x":519,"y":380,"w":147,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":147,"h":170},
+	"sourceSize": {"w":147,"h":170}
+},
+"shop_insideTitle.png":
+{
+	"frame": {"x":668,"y":380,"w":897,"h":218},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":28,"y":4,"w":897,"h":218},
+	"sourceSize": {"w":945,"h":222}
+},
+"shop_title.png":
+{
+	"frame": {"x":2,"y":600,"w":898,"h":376},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":11,"w":898,"h":376},
+	"sourceSize": {"w":950,"h":400}
+},
+"team_arrow.png":
+{
+	"frame": {"x":902,"y":600,"w":46,"h":159},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":159},
+	"sourceSize": {"w":46,"h":159}
+},
+"team_bg.png":
+{
+	"frame": {"x":950,"y":600,"w":1003,"h":972},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":1003,"h":972},
+	"sourceSize": {"w":1021,"h":972}
+},
+"team_btn.png":
+{
+	"frame": {"x":2,"y":1574,"w":426,"h":116},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":7,"w":426,"h":116},
+	"sourceSize": {"w":440,"h":128}
+},
+"team_infoBar.png":
+{
+	"frame": {"x":430,"y":1574,"w":271,"h":72},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":38,"y":43,"w":271,"h":72},
+	"sourceSize": {"w":319,"h":124}
+},
+"team_infoTitle.png":
+{
+	"frame": {"x":703,"y":1574,"w":201,"h":94},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":2,"w":201,"h":94},
+	"sourceSize": {"w":319,"h":124}
+},
+"team_mark.png":
+{
+	"frame": {"x":906,"y":1574,"w":129,"h":147},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":4,"w":129,"h":147},
+	"sourceSize": {"w":153,"h":153}
+},
+"team_title.png":
+{
+	"frame": {"x":1037,"y":1574,"w":898,"h":376},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":29,"y":11,"w":898,"h":376},
+	"sourceSize": {"w":950,"h":400}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "TeamShopFriends.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a933f5f0b423edbea8973408d8787ebf:1/1$"
+}
+}

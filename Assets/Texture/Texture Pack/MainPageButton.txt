@@ -1,0 +1,164 @@
+{"frames": {
+
+"button.png":
+{
+	"frame": {"x":2,"y":2,"w":216,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":216,"h":250},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_call.png":
+{
+	"frame": {"x":220,"y":2,"w":216,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":216,"h":250},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_call_active.png":
+{
+	"frame": {"x":438,"y":2,"w":226,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":256},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_freind.png":
+{
+	"frame": {"x":666,"y":2,"w":216,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":216,"h":250},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_freind_active.png":
+{
+	"frame": {"x":884,"y":2,"w":226,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":256},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_map.png":
+{
+	"frame": {"x":1112,"y":2,"w":216,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":216,"h":250},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_map_active.png":
+{
+	"frame": {"x":1330,"y":2,"w":226,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":256},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_shop.png":
+{
+	"frame": {"x":1558,"y":2,"w":216,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":216,"h":250},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_shop_active.png":
+{
+	"frame": {"x":1776,"y":2,"w":226,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":256},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_team.png":
+{
+	"frame": {"x":2,"y":260,"w":216,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":2,"w":216,"h":250},
+	"sourceSize": {"w":226,"h":256}
+},
+"button_team_active.png":
+{
+	"frame": {"x":220,"y":260,"w":226,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":226,"h":256},
+	"sourceSize": {"w":226,"h":256}
+},
+"index_EXP.png":
+{
+	"frame": {"x":448,"y":260,"w":118,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":108},
+	"sourceSize": {"w":118,"h":108}
+},
+"index_ID.png":
+{
+	"frame": {"x":568,"y":260,"w":141,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":129},
+	"sourceSize": {"w":141,"h":129}
+},
+"index_coin.png":
+{
+	"frame": {"x":711,"y":260,"w":118,"h":108},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":118,"h":108},
+	"sourceSize": {"w":118,"h":108}
+},
+"index_stone.png":
+{
+	"frame": {"x":831,"y":260,"w":141,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":141,"h":129},
+	"sourceSize": {"w":141,"h":129}
+},
+"index_textarea_big.png":
+{
+	"frame": {"x":974,"y":260,"w":332,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":332,"h":61},
+	"sourceSize": {"w":332,"h":61}
+},
+"index_textarea_small.png":
+{
+	"frame": {"x":1308,"y":260,"w":248,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":248,"h":48},
+	"sourceSize": {"w":248,"h":48}
+},
+"index_title.png":
+{
+	"frame": {"x":1558,"y":260,"w":216,"h":256},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":256},
+	"sourceSize": {"w":216,"h":256}
+},
+"main_area.png":
+{
+	"frame": {"x":2,"y":518,"w":1029,"h":1084},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":1029,"h":1084},
+	"sourceSize": {"w":1035,"h":1088}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "MainPageButton.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":2048},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:76c7bcf06e77792d684ecde249c20ebd:1/1$"
+}
+}

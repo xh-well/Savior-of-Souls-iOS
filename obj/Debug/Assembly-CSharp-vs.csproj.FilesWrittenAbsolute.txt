@@ -1,0 +1,17 @@
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/obj/Debug/Assembly-CSharp.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/UnityEngine.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/UnityEditor.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/I18N.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/I18N.West.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/MySql.Data.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/System.Data.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/System.Drawing.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/Elixis.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/ES2.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/Mono.Cecil.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/nunit.framework.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/Unity.DataContract.dll
+/Users/lone19880910/Desktop/Olewajudas/Savior of Souls for iOS/DiamonDashRecreation-master/Temp/bin/Debug/ICSharpCode.NRefactory.dll

@@ -1,0 +1,92 @@
+{"frames": {
+
+"index_EXP.png":
+{
+	"frame": {"x":2,"y":2,"w":177,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":177,"h":112},
+	"sourceSize": {"w":177,"h":112}
+},
+"index_ID.png":
+{
+	"frame": {"x":181,"y":2,"w":142,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":134},
+	"sourceSize": {"w":142,"h":134}
+},
+"index_bar.png":
+{
+	"frame": {"x":2,"y":138,"w":249,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":249,"h":36},
+	"sourceSize": {"w":249,"h":36}
+},
+"index_coin.png":
+{
+	"frame": {"x":253,"y":138,"w":142,"h":134},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":142,"h":134},
+	"sourceSize": {"w":142,"h":134}
+},
+"index_hp.png":
+{
+	"frame": {"x":2,"y":274,"w":240,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":27},
+	"sourceSize": {"w":240,"h":27}
+},
+"index_mp.png":
+{
+	"frame": {"x":244,"y":274,"w":240,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":27},
+	"sourceSize": {"w":240,"h":27}
+},
+"index_stone.png":
+{
+	"frame": {"x":2,"y":303,"w":174,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":112},
+	"sourceSize": {"w":174,"h":112}
+},
+"index_textarea_b.png":
+{
+	"frame": {"x":2,"y":417,"w":353,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":353,"h":89},
+	"sourceSize": {"w":353,"h":89}
+},
+"index_textarea_b2.png":
+{
+	"frame": {"x":2,"y":508,"w":353,"h":89},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":353,"h":89},
+	"sourceSize": {"w":353,"h":89}
+},
+"index_textarea_s.png":
+{
+	"frame": {"x":2,"y":599,"w":272,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":272,"h":60},
+	"sourceSize": {"w":274,"h":64}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "MainPageTopInformation.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0cf1db8bf269f455707a0667d4413f20:1/1$"
+}
+}

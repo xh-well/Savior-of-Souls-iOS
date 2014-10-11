@@ -1,0 +1,124 @@
+{"frames": {
+
+"battle_bg.png":
+{
+	"frame": {"x":2,"y":2,"w":1102,"h":1649},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1102,"h":1649},
+	"sourceSize": {"w":1102,"h":1649}
+},
+"battle_map.png":
+{
+	"frame": {"x":2,"y":1653,"w":1102,"h":654},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1102,"h":654},
+	"sourceSize": {"w":1102,"h":654}
+},
+"battle_top.png":
+{
+	"frame": {"x":2,"y":2309,"w":1103,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1103,"h":206},
+	"sourceSize": {"w":1103,"h":206}
+},
+"enemy_bar_1_bottom.png":
+{
+	"frame": {"x":2,"y":2517,"w":1047,"h":34},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":17,"y":52,"w":1047,"h":34},
+	"sourceSize": {"w":1095,"h":200}
+},
+"enemy_bar_1_hpmp.png":
+{
+	"frame": {"x":2,"y":2553,"w":1037,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":58,"w":1037,"h":22},
+	"sourceSize": {"w":1095,"h":200}
+},
+"enemy_bar_1_top.png":
+{
+	"frame": {"x":2,"y":2577,"w":1037,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":22,"y":57,"w":1037,"h":24},
+	"sourceSize": {"w":1095,"h":200}
+},
+"enemy_bar_2_bottom.png":
+{
+	"frame": {"x":1041,"y":2577,"w":875,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":170,"y":85,"w":875,"h":24},
+	"sourceSize": {"w":1095,"h":200}
+},
+"enemy_bar_2_hpmp.png":
+{
+	"frame": {"x":2,"y":2603,"w":871,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":172,"y":87,"w":871,"h":20},
+	"sourceSize": {"w":1095,"h":200}
+},
+"enemy_bar_2_top.png":
+{
+	"frame": {"x":875,"y":2603,"w":871,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":172,"y":87,"w":871,"h":20},
+	"sourceSize": {"w":1095,"h":200}
+},
+"enemy_bar_info.png":
+{
+	"frame": {"x":2,"y":2625,"w":301,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":794,"y":8,"w":301,"h":162},
+	"sourceSize": {"w":1095,"h":200}
+},
+"my_bar_img.png":
+{
+	"frame": {"x":305,"y":2625,"w":87,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":24,"y":52,"w":87,"h":100},
+	"sourceSize": {"w":1095,"h":200}
+},
+"my_bar_top.png":
+{
+	"frame": {"x":394,"y":2625,"w":1073,"h":162},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":1073,"h":162},
+	"sourceSize": {"w":1095,"h":200}
+},
+"our_monster_bottom.png":
+{
+	"frame": {"x":1469,"y":2625,"w":156,"h":20},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":35,"y":178,"w":156,"h":20},
+	"sourceSize": {"w":226,"h":256}
+},
+"our_monster_hpmp.png":
+{
+	"frame": {"x":1627,"y":2625,"w":152,"h":14},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":37,"y":181,"w":152,"h":14},
+	"sourceSize": {"w":226,"h":256}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "NewBattleUI.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":4096},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8acfbabf26a69b69098662de134d6bee:1/1$"
+}
+}
